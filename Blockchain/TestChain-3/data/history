@@ -1,0 +1,13 @@
+admin.nodeInfo.en
+admin.nodeInfo.enode
+eth.getBlock
+eth.getBalance(eth.accounts[0])
+eth.accounts
+eth.getBalance(eth.accounts[1])
+eth.accounts
+admin.nodeInfo.enode
+eth.coinbase
+eth.accounts
+miner.start()
+miner.stop()
+admin.nodeInfo.enode

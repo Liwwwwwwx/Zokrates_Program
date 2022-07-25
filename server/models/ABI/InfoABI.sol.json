@@ -1,0 +1,39 @@
+[
+	{
+		"constant": false,
+		"inputs": [
+			{
+				"name": "info",
+				"type": "string"
+			},
+			{
+				"name": "_address",
+				"type": "address"
+			}
+		],
+		"name": "setvalue",
+		"outputs": [],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"constant": true,
+		"inputs": [
+			{
+				"name": "_address",
+				"type": "address"
+			}
+		],
+		"name": "getvalue",
+		"outputs": [
+			{
+				"name": "",
+				"type": "string"
+			}
+		],
+		"payable": false,
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
